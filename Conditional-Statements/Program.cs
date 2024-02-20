@@ -14,6 +14,7 @@ namespace Conditional_Statements
         static void Main(string[] args)
         {
             // Ask the user for input
+            // This is the new version 
             Console.WriteLine("Please enter a Sales Amount ...");
             /*
                Use the try catch block to validate user input.
